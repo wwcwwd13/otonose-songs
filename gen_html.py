@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 import json
-BASE = "/sessions/nifty-great-brown/mnt/outputs"
-songs = json.load(open(f"{BASE}/songs.json", encoding="utf-8"))
+from pathlib import Path
+
+BASE = Path(__file__).resolve().parent
+songs = json.loads((BASE / "songs.json").read_text(encoding="utf-8"))
 data = json.dumps(songs, ensure_ascii=False, separators=(",", ":"))
 
 n_perf = sum(s["n"] for s in songs)

@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 import json, re, unicodedata, collections, os
+from pathlib import Path
 
-BASE = "/sessions/nifty-great-brown/mnt/outputs"
+BASE = Path(__file__).resolve().parent
 
 DATES = {
 "U-Cs4R1yM3g":"2023-09-12","OSnR4RVn99c":"2023-09-17","NIYGzltMSdw":"2023-09-20",
@@ -233,10 +234,10 @@ def parse(path):
                          acap=acap, live=live, rep=rep, date=DATES[vid]))
     return rows
 
-rows = (parse(f"{BASE}/setlists.txt") + parse(f"{BASE}/setlists2.txt")
-        + parse(f"{BASE}/setlists3.txt") + parse(f"{BASE}/setlists4.txt")
-        + parse(f"{BASE}/setlists5.txt") + parse(f"{BASE}/setlists6.txt")
-        + parse(f"{BASE}/setlists7.txt"))
+rows = (parse(BASE / "setlists.txt") + parse(BASE / "setlists2.txt")
+        + parse(BASE / "setlists3.txt") + parse(BASE / "setlists4.txt")
+        + parse(BASE / "setlists5.txt") + parse(BASE / "setlists6.txt")
+        + parse(BASE / "setlists7.txt"))
 print("performances:", len(rows), "streams:", len({r['vid'] for r in rows}))
 
 # ---------- merge by normalised title ----------
@@ -274,7 +275,7 @@ for key, perfs in groups.items():
 songs.sort(key=lambda s: (s["perfs"][0]["d"], s["perfs"][0]["t"]), reverse=True)
 print("unique songs:", len(songs))
 print("by category:", collections.Counter(s["cat"] for s in songs))
-json.dump(songs, open(f"{BASE}/songs.json","w",encoding="utf-8"),
+json.dump(songs, open(BASE / "songs.json","w",encoding="utf-8"),
           ensure_ascii=False, indent=1)
 
 # artists that fell into jpop bucket, for review
