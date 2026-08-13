@@ -36,14 +36,14 @@ body{
 a{color:inherit}
 .wrap{max-width:1000px;margin:0 auto;padding:0 18px 80px}
 
-header{padding:16px 0 24px;text-align:center}
+header{padding:16px 0 16px;text-align:center}
 h1{margin:0;font-size:27px;letter-spacing:-.02em;font-weight:700}
 h1 .jp{color:var(--accent)}
-.sub{margin:9px 0 0;color:var(--dim);font-size:13.5px}
-.range{margin:3px 0 0;color:var(--dim2);font-size:12px;letter-spacing:.03em}
+.range{margin:-1px 0 0;color:var(--dim2);font-size:12px;letter-spacing:.03em}
 .langs{justify-content:flex-end;margin-bottom:14px}
 .chip.lang{font-size:12px;padding:5px 12px}
-.stats{display:flex;justify-content:center;gap:26px;margin:22px 0 0;flex-wrap:wrap}
+.stats{display:flex;justify-content:center;gap:26px;margin:12px 0 0;flex-wrap:wrap}
+.stat{line-height:1.2}
 .stat b{display:block;font-size:22px;color:var(--accent2);font-variant-numeric:tabular-nums}
 .stat span{font-size:11.5px;color:var(--dim2);letter-spacing:.04em}
 
@@ -169,7 +169,6 @@ footer a:hover{color:var(--accent2)}
 <header>
   <div class="row langs" id="langs"></div>
   <h1 id="page-heading"><span id="title-prefix"></span><span class="jp" id="title-name"></span><span id="title-rest"></span></h1>
-  <p class="sub" id="sub"></p>
   <p class="range">__RANGE__</p>
   <div class="stats">
     <div class="stat"><b>__NSONG__</b><span></span></div>
@@ -255,7 +254,7 @@ const I18N = {
     made:"このページは Claude で作成しました"
   },
   en: {
-    label:"English",
+    label:"EN",
     title:"Otonose Kanade Songs",
     titlePrefix:"", titleName:"Otonose Kanade", titleRest:" Songs",
     sub:"Otonose Kanade · karaoke stream setlist archive",
@@ -277,7 +276,7 @@ const I18N = {
     made:"This page was built with Claude"
   },
   id: {
-    label:"Indonesia",
+    label:"ID",
     title:"Koleksi Lagu Otonose Kanade",
     titlePrefix:"Koleksi Lagu ", titleName:"Otonose Kanade", titleRest:"",
     sub:"Otonose Kanade · arsip setlist siaran karaoke",
@@ -371,7 +370,6 @@ function buildShell(){
   document.getElementById("title-prefix").textContent = t.titlePrefix;
   document.getElementById("title-name").textContent = t.titleName;
   document.getElementById("title-rest").textContent = t.titleRest;
-  document.getElementById("sub").textContent = t.sub;
   [...document.querySelectorAll(".stat span")].forEach((e,i) => e.textContent = t.st[i]);
   document.getElementById("q").placeholder = t.search;
   const sel = document.getElementById("sort");
