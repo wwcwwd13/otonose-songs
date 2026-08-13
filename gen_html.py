@@ -212,8 +212,8 @@ const MON_ID = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustu
 const I18N = {
   ko: {
     label:"한국어",
-    title:"오토노세 카나데 노래방송 라이브러리",
-    titlePrefix:"", titleName:"오토노세 카나데", titleRest:" 노래방송 라이브러리",
+    title:"오토노세 카나데 노래 모음",
+    titlePrefix:"", titleName:"오토노세 카나데", titleRest:" 노래 모음",
     sub:"Otonose Kanade · 노래방송 세트리스트 아카이브",
     st:["곡","가창 횟수","방송 · 동영상"],
     search:"곡 제목 · 가수 검색",
@@ -234,8 +234,8 @@ const I18N = {
   },
   ja: {
     label:"日本語",
-    title:"音乃瀬奏 歌枠ライブラリ",
-    titlePrefix:"", titleName:"音乃瀬奏", titleRest:" 歌枠ライブラリ",
+    title:"音乃瀬奏 歌枠曲集",
+    titlePrefix:"", titleName:"音乃瀬奏", titleRest:" 歌枠曲集",
     sub:"音乃瀬奏 · 歌枠セットリスト アーカイブ",
     st:["曲","歌唱回数","配信 · 動画"],
     search:"曲名 · アーティスト検索",
@@ -256,8 +256,8 @@ const I18N = {
   },
   en: {
     label:"English",
-    title:"Otonose Kanade Karaoke Library",
-    titlePrefix:"", titleName:"Otonose Kanade", titleRest:" Karaoke Library",
+    title:"Otonose Kanade Songs",
+    titlePrefix:"", titleName:"Otonose Kanade", titleRest:" Songs",
     sub:"Otonose Kanade · karaoke stream setlist archive",
     st:["songs","performances","streams · videos"],
     search:"Search title or artist",
@@ -278,8 +278,8 @@ const I18N = {
   },
   id: {
     label:"Indonesia",
-    title:"Perpustakaan Karaoke Otonose Kanade",
-    titlePrefix:"Perpustakaan Karaoke ", titleName:"Otonose Kanade", titleRest:"",
+    title:"Koleksi Lagu Otonose Kanade",
+    titlePrefix:"Koleksi Lagu ", titleName:"Otonose Kanade", titleRest:"",
     sub:"Otonose Kanade · arsip setlist siaran karaoke",
     st:["lagu","kali dinyanyikan","siaran · video"],
     search:"Cari judul atau artis",
