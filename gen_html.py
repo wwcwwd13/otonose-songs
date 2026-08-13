@@ -54,8 +54,9 @@ h1 .jp{color:var(--accent)}
 }
 .row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
 .row+.row{margin-top:9px}
-.filterrow{align-items:flex-start}
-.chips{display:flex;gap:9px;flex-wrap:wrap;flex:1 1 auto;min-width:0}
+.filterrow{align-items:center;flex-wrap:nowrap}
+.chips{display:flex;gap:9px;flex-wrap:nowrap;overflow-x:auto;flex:1 1 auto;min-width:0;padding-bottom:2px;scrollbar-width:thin}
+.chips .chip{flex:0 0 auto}
 .filterrow select{flex:0 0 auto;margin-left:auto;padding:5px 9px;font-size:12.5px;
   border-radius:999px;color:var(--dim)}
 .filterrow select:hover{color:var(--txt);border-color:var(--dim2)}
