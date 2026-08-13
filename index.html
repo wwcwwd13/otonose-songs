@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>音乃瀬奏 歌枠 라이브러리</title>
+<title id="page-title"></title>
 <style>
 :root{
   --bg:#12101a; --bg2:#1a1726; --card:#211d2f; --card2:#282338;
@@ -24,7 +24,7 @@ body{
 a{color:inherit}
 .wrap{max-width:1000px;margin:0 auto;padding:0 18px 80px}
 
-header{padding:44px 0 24px;text-align:center}
+header{padding:16px 0 24px;text-align:center}
 h1{margin:0;font-size:27px;letter-spacing:-.02em;font-weight:700}
 h1 .jp{color:var(--accent)}
 .sub{margin:9px 0 0;color:var(--dim);font-size:13.5px}
@@ -156,7 +156,7 @@ footer a:hover{color:var(--accent2)}
 
 <header>
   <div class="row langs" id="langs"></div>
-  <h1><span class="jp">音乃瀬奏</span> 歌枠 Library</h1>
+  <h1 id="page-heading"><span id="title-prefix"></span><span class="jp" id="title-name"></span><span id="title-rest"></span></h1>
   <p class="sub" id="sub"></p>
   <p class="range">2023.09 – 2026.08</p>
   <div class="stats">
@@ -200,6 +200,8 @@ const MON_ID = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustu
 const I18N = {
   ko: {
     label:"한국어",
+    title:"오토노세 카나데 노래방송 라이브러리",
+    titlePrefix:"", titleName:"오토노세 카나데", titleRest:" 노래방송 라이브러리",
     sub:"Otonose Kanade · 노래방송 세트리스트 아카이브",
     st:["곡","가창 횟수","방송 · 동영상"],
     search:"곡 제목 · 가수 검색",
@@ -220,6 +222,8 @@ const I18N = {
   },
   ja: {
     label:"日本語",
+    title:"音乃瀬奏 歌枠ライブラリ",
+    titlePrefix:"", titleName:"音乃瀬奏", titleRest:" 歌枠ライブラリ",
     sub:"音乃瀬奏 · 歌枠セットリスト アーカイブ",
     st:["曲","歌唱回数","配信 · 動画"],
     search:"曲名 · アーティスト検索",
@@ -240,6 +244,8 @@ const I18N = {
   },
   en: {
     label:"English",
+    title:"Otonose Kanade Karaoke Library",
+    titlePrefix:"", titleName:"Otonose Kanade", titleRest:" Karaoke Library",
     sub:"Otonose Kanade · karaoke stream setlist archive",
     st:["songs","performances","streams · videos"],
     search:"Search title or artist",
@@ -260,6 +266,8 @@ const I18N = {
   },
   id: {
     label:"Indonesia",
+    title:"Perpustakaan Karaoke Otonose Kanade",
+    titlePrefix:"Perpustakaan Karaoke ", titleName:"Otonose Kanade", titleRest:"",
     sub:"Otonose Kanade · arsip setlist siaran karaoke",
     st:["lagu","kali dinyanyikan","siaran · video"],
     search:"Cari judul atau artis",
@@ -347,6 +355,10 @@ function buildChips(){
 function buildShell(){
   const t = T();
   document.documentElement.lang = state.lang;
+  document.title = t.title;
+  document.getElementById("title-prefix").textContent = t.titlePrefix;
+  document.getElementById("title-name").textContent = t.titleName;
+  document.getElementById("title-rest").textContent = t.titleRest;
   document.getElementById("sub").textContent = t.sub;
   [...document.querySelectorAll(".stat span")].forEach((e,i) => e.textContent = t.st[i]);
   document.getElementById("q").placeholder = t.search;
