@@ -48,6 +48,7 @@ DATES = {
 "woCEixptAPY":"2024-03-26","KgEDxIOyQ78":"2025-12-04","bTNx6xRYLrQ":"2025-12-29",
 "_8u-fp3L7K0":"2026-01-02","KURAzY1Z7eM":"2026-01-22","zi60qBQOoxQ":"2026-01-31",
 "fO2ejfMaS4Q":"2026-03-04","cM9H5jKzU1g":"2026-05-02","a8GYotCWqxs":"2026-05-21",
+"eOeMvjGGYoc":"2026-08-28",
 }
 
 # ---------- artist canonicalisation ----------
