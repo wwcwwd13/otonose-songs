@@ -333,6 +333,24 @@
   ]
  },
  {
+  "title": "iCONiC",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "wWs-sl0zXqw",
+    "t": 0,
+    "d": "2026-08-28",
+    "a": false,
+    "L": "V|Official MV",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "You & 合図",
   "artist": "音乃瀬奏",
   "cat": "holo",
@@ -931,7 +949,7 @@
   "artist": "宇多田ヒカル",
   "cat": "anime",
   "src": "シン・エヴァンゲリオン劇場版",
-  "n": 3,
+  "n": 4,
   "perfs": [
    {
     "v": "8JNJ8GYgTQk",
@@ -939,6 +957,15 @@
     "d": "2026-08-07",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Kib9k58WLn0",
+    "t": 763,
+    "d": "2026-07-01",
+    "a": false,
+    "L": "L|AZKi生誕3Dライブ",
     "r": 1,
     "i": null
    },
@@ -1081,6 +1108,375 @@
     "v": "h-B3Qz1dL3g",
     "t": 851,
     "d": "2023-12-14",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Windy Traveler",
+  "artist": "hololive Meet Ambassadors",
+  "cat": "holo",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "GTpQYXMbPgY",
+    "t": 0,
+    "d": "2026-08-06",
+    "a": false,
+    "L": "V|Official MV",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "爆夏!!トロピカバケーション",
+  "artist": "hololiveDreams",
+  "cat": "holo",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "Z3rqP6VmqU4",
+    "t": 0,
+    "d": "2026-07-28",
+    "a": false,
+    "L": "V|Official MV",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "secret base ~ 君がくれたもの ~",
+  "artist": "ZONE",
+  "cat": "jpop",
+  "src": null,
+  "n": 5,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 4575,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "FuXiow-eVF8",
+    "t": 2496,
+    "d": "2025-08-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Qw3m2ysjEkA",
+    "t": 2150,
+    "d": "2025-04-17",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Ec8OAZot2-w",
+    "t": 6637,
+    "d": "2024-04-03",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "HFY3mVm9fPg",
+    "t": 2851,
+    "d": "2023-11-01",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "サマータイムレコード",
+  "artist": "じん",
+  "cat": "vocaloid",
+  "src": null,
+  "n": 2,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 3892,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "CJu--agTZ6Q",
+    "t": 0,
+    "d": "2025-08-31",
+    "a": false,
+    "L": "V|cover",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "JANE DOE",
+  "artist": "米津玄師 × 宇多田ヒカル",
+  "cat": "jpop",
+  "src": null,
+  "n": 6,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 3305,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "cM9H5jKzU1g",
+    "t": 4691,
+    "d": "2026-05-02",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "zi60qBQOoxQ",
+    "t": 1999,
+    "d": "2026-01-31",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "bTNx6xRYLrQ",
+    "t": 6813,
+    "d": "2025-12-29",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "KgEDxIOyQ78",
+    "t": 6515,
+    "d": "2025-12-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "nHu9HRo-wXM",
+    "t": 2002,
+    "d": "2025-11-06",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "だから僕は音楽をやめた",
+  "artist": "ヨルシカ",
+  "cat": "jpop",
+  "src": null,
+  "n": 4,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 2245,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BJCv-gDPdzQ",
+    "t": 7099,
+    "d": "2025-08-28",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BILMZyLkaKA",
+    "t": 4796,
+    "d": "2024-10-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "NIYGzltMSdw",
+    "t": 4445,
+    "d": "2023-09-20",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "少女レイ",
+  "artist": "みきとP",
+  "cat": "vocaloid",
+  "src": null,
+  "n": 6,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 1786,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "DiHB5voNt00",
+    "t": 1156,
+    "d": "2025-07-10",
+    "a": false,
+    "L": "L|真夏のReGLOSSカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "gT1ARDYPxPs",
+    "t": 13838,
+    "d": "2025-06-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "igOa9fUQxcg",
+    "t": 4875,
+    "d": "2024-06-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "h-B3Qz1dL3g",
+    "t": 5535,
+    "d": "2023-12-14",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "yPhXfmeiqas",
+    "t": 1749,
+    "d": "2023-11-22",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "打上花火",
+  "artist": "DAOKO × 米津玄師",
+  "cat": "anime",
+  "src": "打ち上げ花火、下から見るか？横から見るか？",
+  "n": 3,
+  "perfs": [
+   {
+    "v": "QB2tT48CvOI",
+    "t": 173,
+    "d": "2026-07-19",
+    "a": false,
+    "L": "L|夏曲ホロ3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "eUkFxmnIIOA",
+    "t": 3715,
+    "d": "2025-07-21",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "r23hvAEALr4",
+    "t": 564,
+    "d": "2023-10-11",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "青のすみか",
+  "artist": "キタニタツヤ",
+  "cat": "anime",
+  "src": "呪術廻戦 懐玉・玉折",
+  "n": 4,
+  "perfs": [
+   {
+    "v": "Kib9k58WLn0",
+    "t": 2607,
+    "d": "2026-07-01",
+    "a": false,
+    "L": "L|AZKi生誕3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "cM9H5jKzU1g",
+    "t": 125,
+    "d": "2026-05-02",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "efF_c9D-R-A",
+    "t": 0,
+    "d": "2024-08-06",
+    "a": false,
+    "L": "V|cover",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "HFY3mVm9fPg",
+    "t": 747,
+    "d": "2023-11-01",
     "a": false,
     "L": null,
     "r": 1,
@@ -1237,7 +1633,7 @@
   "artist": "Vaundy",
   "cat": "jpop",
   "src": null,
-  "n": 6,
+  "n": 7,
   "perfs": [
    {
     "v": "4flP14V9uRI",
@@ -1270,6 +1666,15 @@
     "v": "YrwsxnW-aow",
     "t": 6687,
     "d": "2024-03-20",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BoT8SjHO5_c",
+    "t": 2511,
+    "d": "2023-12-28",
     "a": false,
     "L": null,
     "r": 1,
@@ -1881,6 +2286,24 @@
   ]
  },
  {
+  "title": "おこちゃま戦争",
+  "artist": "Giga",
+  "cat": "vocaloid",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "h0jykfxgmj0",
+    "t": 1100,
+    "d": "2026-06-16",
+    "a": false,
+    "L": "L|水宮枢生誕3Dライブ",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "敗北の少年",
   "artist": "kemu",
   "cat": "vocaloid",
@@ -1975,7 +2398,7 @@
   "artist": "ReGLOSS",
   "cat": "holo",
   "src": null,
-  "n": 1,
+  "n": 3,
   "perfs": [
    {
     "v": "a8GYotCWqxs",
@@ -1983,6 +2406,24 @@
     "d": "2026-05-21",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "segXDFnmX7o",
+    "t": 3383,
+    "d": "2026-04-05",
+    "a": false,
+    "L": "L|ReGLOSS Lucky Loud 3D配信",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "hvqSFRncqMA",
+    "t": 0,
+    "d": "2026-04-05",
+    "a": false,
+    "L": "V|Official MV",
     "r": 1,
     "i": null
    }
@@ -2281,7 +2722,7 @@
   "artist": "緑黄色社会",
   "cat": "anime",
   "src": "薬屋のひとりごと",
-  "n": 8,
+  "n": 9,
   "perfs": [
    {
     "v": "a8GYotCWqxs",
@@ -2298,6 +2739,15 @@
     "d": "2026-01-22",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "pmWH-wAJYRE",
+    "t": 1723,
+    "d": "2026-01-03",
+    "a": false,
+    "L": "L|常闇トワ6周年記念3Dライブ",
     "r": 1,
     "i": null
    },
@@ -3339,60 +3789,6 @@
   ]
  },
  {
-  "title": "JANE DOE",
-  "artist": "米津玄師 × 宇多田ヒカル",
-  "cat": "jpop",
-  "src": null,
-  "n": 5,
-  "perfs": [
-   {
-    "v": "cM9H5jKzU1g",
-    "t": 4691,
-    "d": "2026-05-02",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "zi60qBQOoxQ",
-    "t": 1999,
-    "d": "2026-01-31",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "bTNx6xRYLrQ",
-    "t": 6813,
-    "d": "2025-12-29",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "KgEDxIOyQ78",
-    "t": 6515,
-    "d": "2025-12-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "nHu9HRo-wXM",
-    "t": 2002,
-    "d": "2025-11-06",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "ミックスナッツ",
   "artist": "Official髭男dism",
   "cat": "anime",
@@ -3600,42 +3996,6 @@
   ]
  },
  {
-  "title": "青のすみか",
-  "artist": "キタニタツヤ",
-  "cat": "anime",
-  "src": "呪術廻戦 懐玉・玉折",
-  "n": 3,
-  "perfs": [
-   {
-    "v": "cM9H5jKzU1g",
-    "t": 125,
-    "d": "2026-05-02",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "efF_c9D-R-A",
-    "t": 0,
-    "d": "2024-08-06",
-    "a": false,
-    "L": "V|cover",
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "HFY3mVm9fPg",
-    "t": 747,
-    "d": "2023-11-01",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "give it back",
   "artist": "Cö shu Nie",
   "cat": "anime",
@@ -3789,6 +4149,24 @@
   ]
  },
  {
+  "title": "夢色ワンダー",
+  "artist": "hololive IDOL PROJECT",
+  "cat": "holo",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "y0yJ6HjBrOA",
+    "t": 0,
+    "d": "2026-04-15",
+    "a": false,
+    "L": "V|Official MV",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "アイネクライネ",
   "artist": "米津玄師",
   "cat": "jpop",
@@ -3808,6 +4186,150 @@
     "v": "NIYGzltMSdw",
     "t": 3450,
     "d": "2023-09-20",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Flashpoint",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "mCgAcTJyvts",
+    "t": 3327,
+    "d": "2026-03-08",
+    "a": false,
+    "L": "L|hololive 7th fes. STAGE4",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Our Bright Parade",
+  "artist": "hololive IDOL PROJECT",
+  "cat": "holo",
+  "src": null,
+  "n": 7,
+  "perfs": [
+   {
+    "v": "mCgAcTJyvts",
+    "t": 2213,
+    "d": "2026-03-08",
+    "a": false,
+    "L": "L|hololive 7th fes. STAGE4",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "KgEDxIOyQ78",
+    "t": 2260,
+    "d": "2025-12-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "6TQEyFUOX1Y",
+    "t": 3664,
+    "d": "2025-08-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "f5QgEZjH53Y",
+    "t": 182,
+    "d": "2025-02-04",
+    "a": false,
+    "L": "L|儒烏風亭らでん生誕3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "T4tyP1lqd_E",
+    "t": 4545,
+    "d": "2025-01-27",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "sjJUx-I2Rro",
+    "t": 3304,
+    "d": "2025-01-16",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "7yd-jMk7lIs",
+    "t": 2345,
+    "d": "2024-11-15",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Color Rise Harmony",
+  "artist": "hololive IDOL PROJECT",
+  "cat": "holo",
+  "src": null,
+  "n": 5,
+  "perfs": [
+   {
+    "v": "mCgAcTJyvts",
+    "t": 1949,
+    "d": "2026-03-08",
+    "a": false,
+    "L": "L|hololive 7th fes. STAGE4",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "fO2ejfMaS4Q",
+    "t": 4355,
+    "d": "2026-03-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "pfgyOvyp600",
+    "t": 3296,
+    "d": "2025-07-30",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Qw3m2ysjEkA",
+    "t": 3466,
+    "d": "2025-04-17",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "m0gb_Xt8AsE",
+    "t": 169,
+    "d": "2025-04-07",
     "a": false,
     "L": null,
     "r": 1,
@@ -3862,51 +4384,6 @@
     "v": "YrwsxnW-aow",
     "t": 6041,
     "d": "2024-03-20",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "Color Rise Harmony",
-  "artist": "hololive IDOL PROJECT",
-  "cat": "holo",
-  "src": null,
-  "n": 4,
-  "perfs": [
-   {
-    "v": "fO2ejfMaS4Q",
-    "t": 4355,
-    "d": "2026-03-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "pfgyOvyp600",
-    "t": 3296,
-    "d": "2025-07-30",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "Qw3m2ysjEkA",
-    "t": 3466,
-    "d": "2025-04-17",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "m0gb_Xt8AsE",
-    "t": 169,
-    "d": "2025-04-07",
     "a": false,
     "L": null,
     "r": 1,
@@ -4231,6 +4708,33 @@
     "v": "fO2ejfMaS4Q",
     "t": 495,
     "d": "2026-03-04",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "ギターと孤独と蒼い惑星",
+  "artist": "結束バンド",
+  "cat": "anime",
+  "src": "ぼっち・ざ・ろっく！",
+  "n": 2,
+  "perfs": [
+   {
+    "v": "YgZNZM81OcA",
+    "t": 2570,
+    "d": "2026-03-02",
+    "a": false,
+    "L": "L|桃鈴ねね生誕3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "gZIS-GATJFw",
+    "t": 3139,
+    "d": "2023-09-28",
     "a": false,
     "L": null,
     "r": 1,
@@ -5031,6 +5535,195 @@
   ]
  },
  {
+  "title": "フィーリングラデーション",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 8,
+  "perfs": [
+   {
+    "v": "oKiKqycF-lk",
+    "t": 5820,
+    "d": "2025-12-31",
+    "a": false,
+    "L": "L|hololive COUNTDOWN LIVE 2025▷2026",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "VUtZTWnGiKY",
+    "t": 4705,
+    "d": "2025-11-22",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "gT1ARDYPxPs",
+    "t": 18028,
+    "d": "2025-06-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4C3kreEOk1Q",
+    "t": 3242,
+    "d": "2025-03-08",
+    "a": false,
+    "L": "L|hololive 6th fes. DAY1 STAGE2",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "9wtCB53TKo4",
+    "t": 5240,
+    "d": "2025-02-21",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "T4tyP1lqd_E",
+    "t": 5085,
+    "d": "2025-01-27",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BILMZyLkaKA",
+    "t": 6674,
+    "d": "2024-10-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 3884,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "FG ROADSTER",
+  "artist": "FLOW GLOW",
+  "cat": "holo",
+  "src": null,
+  "n": 5,
+  "perfs": [
+   {
+    "v": "oKiKqycF-lk",
+    "t": 5723,
+    "d": "2025-12-31",
+    "a": false,
+    "L": "L|hololive COUNTDOWN LIVE 2025▷2026",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "bTNx6xRYLrQ",
+    "t": 532,
+    "d": "2025-12-29",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "z1bLSEcoo7E",
+    "t": 1057,
+    "d": "2025-08-09",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "T4tyP1lqd_E",
+    "t": 5740,
+    "d": "2025-01-27",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "7yd-jMk7lIs",
+    "t": 850,
+    "d": "2024-11-15",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "アワータイムイエロー",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 5,
+  "perfs": [
+   {
+    "v": "oKiKqycF-lk",
+    "t": 1139,
+    "d": "2025-12-31",
+    "a": false,
+    "L": "L|hololive COUNTDOWN LIVE 2025▷2026",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "nHu9HRo-wXM",
+    "t": 4836,
+    "d": "2025-11-06",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "CCjz0q-Rbwk",
+    "t": 3666,
+    "d": "2025-10-06",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "TO4W5iUe4Jw",
+    "t": 0,
+    "d": "2025-09-14",
+    "a": false,
+    "L": "V|Official MV",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "lXten0BT3ZE",
+    "t": 2763,
+    "d": "2025-09-13",
+    "a": false,
+    "L": "L|ReGLOSS 2周年",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "ドラマツルギー",
   "artist": "Eve",
   "cat": "jpop",
@@ -5332,7 +6025,7 @@
   "artist": "BUMP OF CHICKEN",
   "cat": "jpop",
   "src": null,
-  "n": 7,
+  "n": 8,
   "perfs": [
    {
     "v": "bTNx6xRYLrQ",
@@ -5358,6 +6051,15 @@
     "d": "2025-08-17",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "DiHB5voNt00",
+    "t": 2799,
+    "d": "2025-07-10",
+    "a": false,
+    "L": "L|真夏のReGLOSSカラオケ",
     "r": 1,
     "i": null
    },
@@ -5589,51 +6291,6 @@
   ]
  },
  {
-  "title": "FG ROADSTER",
-  "artist": "FLOW GLOW",
-  "cat": "holo",
-  "src": null,
-  "n": 4,
-  "perfs": [
-   {
-    "v": "bTNx6xRYLrQ",
-    "t": 532,
-    "d": "2025-12-29",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "z1bLSEcoo7E",
-    "t": 1057,
-    "d": "2025-08-09",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "T4tyP1lqd_E",
-    "t": 5740,
-    "d": "2025-01-27",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "7yd-jMk7lIs",
-    "t": 850,
-    "d": "2024-11-15",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "対象a",
   "artist": "anNina",
   "cat": "anime",
@@ -5718,6 +6375,24 @@
     "d": "2023-09-12",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "蜜月アン・ドゥ・トロワ",
+  "artist": "DATEKEN",
+  "cat": "vocaloid",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "jNCGOv8Zz1A",
+    "t": 2312,
+    "d": "2025-12-12",
+    "a": false,
+    "L": "L|こぼ・かなえる生誕3Dライブ",
     "r": 1,
     "i": null
    }
@@ -5905,60 +6580,6 @@
     "v": "KgEDxIOyQ78",
     "t": 3318,
     "d": "2025-12-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "Our Bright Parade",
-  "artist": "hololive IDOL PROJECT",
-  "cat": "holo",
-  "src": null,
-  "n": 5,
-  "perfs": [
-   {
-    "v": "KgEDxIOyQ78",
-    "t": 2260,
-    "d": "2025-12-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "6TQEyFUOX1Y",
-    "t": 3664,
-    "d": "2025-08-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "T4tyP1lqd_E",
-    "t": 4545,
-    "d": "2025-01-27",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "sjJUx-I2Rro",
-    "t": 3304,
-    "d": "2025-01-16",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "7yd-jMk7lIs",
-    "t": 2345,
-    "d": "2024-11-15",
     "a": false,
     "L": null,
     "r": 1,
@@ -6202,60 +6823,6 @@
     "v": "VUtZTWnGiKY",
     "t": 5434,
     "d": "2025-11-22",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "フィーリングラデーション",
-  "artist": "ReGLOSS",
-  "cat": "holo",
-  "src": null,
-  "n": 5,
-  "perfs": [
-   {
-    "v": "VUtZTWnGiKY",
-    "t": 4705,
-    "d": "2025-11-22",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "gT1ARDYPxPs",
-    "t": 18028,
-    "d": "2025-06-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "9wtCB53TKo4",
-    "t": 5240,
-    "d": "2025-02-21",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "T4tyP1lqd_E",
-    "t": 5085,
-    "d": "2025-01-27",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "BILMZyLkaKA",
-    "t": 6674,
-    "d": "2024-10-07",
     "a": false,
     "L": null,
     "r": 1,
@@ -6601,7 +7168,7 @@
   "artist": "EGOIST",
   "cat": "anime",
   "src": "ギルティクラウン",
-  "n": 4,
+  "n": 5,
   "perfs": [
    {
     "v": "nHu9HRo-wXM",
@@ -6618,6 +7185,15 @@
     "d": "2024-10-01",
     "a": false,
     "L": "V|ReGLOSS 3D LIVE",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 2655,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
     "r": 1,
     "i": null
    },
@@ -6691,7 +7267,7 @@
   "artist": "音乃瀬奏",
   "cat": "holo",
   "src": null,
-  "n": 3,
+  "n": 4,
   "perfs": [
    {
     "v": "nHu9HRo-wXM",
@@ -6712,6 +7288,15 @@
     "i": null
    },
    {
+    "v": "MQr9XHYCm5A",
+    "t": 0,
+    "d": "2025-08-10",
+    "a": false,
+    "L": "V|Concept Movie",
+    "r": 1,
+    "i": null
+   },
+   {
     "v": "z1bLSEcoo7E",
     "t": 543,
     "d": "2025-08-09",
@@ -6727,7 +7312,7 @@
   "artist": "ReGLOSS",
   "cat": "holo",
   "src": null,
-  "n": 3,
+  "n": 5,
   "perfs": [
    {
     "v": "nHu9HRo-wXM",
@@ -6735,6 +7320,15 @@
     "d": "2025-11-06",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "lXten0BT3ZE",
+    "t": 3656,
+    "d": "2025-09-13",
+    "a": false,
+    "L": "L|ReGLOSS 2周年",
     "r": 1,
     "i": null
    },
@@ -6755,31 +7349,13 @@
     "L": null,
     "r": 1,
     "i": null
-   }
-  ]
- },
- {
-  "title": "アワータイムイエロー",
-  "artist": "ReGLOSS",
-  "cat": "holo",
-  "src": null,
-  "n": 2,
-  "perfs": [
-   {
-    "v": "nHu9HRo-wXM",
-    "t": 4836,
-    "d": "2025-11-06",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
    },
    {
-    "v": "CCjz0q-Rbwk",
-    "t": 3666,
-    "d": "2025-10-06",
+    "v": "DiHB5voNt00",
+    "t": 122,
+    "d": "2025-07-10",
     "a": false,
-    "L": null,
+    "L": "L|真夏のReGLOSSカラオケ",
     "r": 1,
     "i": null
    }
@@ -7128,42 +7704,60 @@
   ]
  },
  {
-  "title": "サマータイムレコード",
-  "artist": "じん",
-  "cat": "vocaloid",
+  "title": "Shooting Star",
+  "artist": "ReGLOSS×BEMANI",
+  "cat": "holo",
   "src": null,
   "n": 1,
   "perfs": [
    {
-    "v": "CJu--agTZ6Q",
+    "v": "T6v4mZVrsB0",
     "t": 0,
-    "d": "2025-08-31",
+    "d": "2025-09-25",
     "a": false,
-    "L": "V|cover",
+    "L": "V|Official MV",
     "r": 1,
     "i": null
    }
   ]
  },
  {
-  "title": "だから僕は音楽をやめた",
-  "artist": "ヨルシカ",
-  "cat": "jpop",
+  "title": "bvdiz",
+  "artist": "ReGLOSS",
+  "cat": "holo",
   "src": null,
-  "n": 3,
+  "n": 5,
   "perfs": [
    {
-    "v": "BJCv-gDPdzQ",
-    "t": 7099,
-    "d": "2025-08-28",
+    "v": "lXten0BT3ZE",
+    "t": 2312,
+    "d": "2025-09-13",
+    "a": false,
+    "L": "L|ReGLOSS 2周年",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "gT1ARDYPxPs",
+    "t": 17772,
+    "d": "2025-06-07",
     "a": false,
     "L": null,
     "r": 1,
     "i": null
    },
    {
+    "v": "aW0p20hg7ms",
+    "t": 2844,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
     "v": "BILMZyLkaKA",
-    "t": 4796,
+    "t": 215,
     "d": "2024-10-07",
     "a": false,
     "L": null,
@@ -7171,11 +7765,110 @@
     "i": null
    },
    {
-    "v": "NIYGzltMSdw",
-    "t": 4445,
-    "d": "2023-09-20",
+    "v": "wIYvks57cQA",
+    "t": 3352,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "SUPER DUPER",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 2,
+  "perfs": [
+   {
+    "v": "lXten0BT3ZE",
+    "t": 2195,
+    "d": "2025-09-13",
+    "a": false,
+    "L": "L|ReGLOSS 2周年",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "HB8sU0qsePE",
+    "t": 2868,
+    "d": "2025-05-12",
+    "a": false,
+    "L": "L|一条莉々華生誕3Dライブ",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "LAKI MODE",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 7,
+  "perfs": [
+   {
+    "v": "lXten0BT3ZE",
+    "t": 2085,
+    "d": "2025-09-13",
+    "a": false,
+    "L": "L|ReGLOSS 2周年",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Wreee0go3s4",
+    "t": 6368,
+    "d": "2025-08-17",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "pfgyOvyp600",
+    "t": 2294,
+    "d": "2025-07-30",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "sjJUx-I2Rro",
+    "t": 2551,
+    "d": "2025-01-16",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "rrY_9ugEl04",
+    "t": 0,
+    "d": "2024-10-17",
+    "a": false,
+    "L": "V|推しカメラ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BILMZyLkaKA",
+    "t": 547,
+    "d": "2024-10-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 2935,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
     "r": 1,
     "i": null
    }
@@ -7267,7 +7960,7 @@
   "artist": "Da-iCE",
   "cat": "jpop",
   "src": null,
-  "n": 1,
+  "n": 2,
   "perfs": [
    {
     "v": "BJCv-gDPdzQ",
@@ -7275,6 +7968,15 @@
     "d": "2025-08-28",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "aW0p20hg7ms",
+    "t": 1750,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
     "r": 1,
     "i": null
    }
@@ -7371,60 +8073,6 @@
   ]
  },
  {
-  "title": "LAKI MODE",
-  "artist": "ReGLOSS",
-  "cat": "holo",
-  "src": null,
-  "n": 5,
-  "perfs": [
-   {
-    "v": "Wreee0go3s4",
-    "t": 6368,
-    "d": "2025-08-17",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "pfgyOvyp600",
-    "t": 2294,
-    "d": "2025-07-30",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "sjJUx-I2Rro",
-    "t": 2551,
-    "d": "2025-01-16",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "rrY_9ugEl04",
-    "t": 0,
-    "d": "2024-10-17",
-    "a": false,
-    "L": "V|推しカメラ",
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "BILMZyLkaKA",
-    "t": 547,
-    "d": "2024-10-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "雑魚",
   "artist": "柊マグネタイト",
   "cat": "vocaloid",
@@ -7501,7 +8149,7 @@
   "artist": "こっちのけんと",
   "cat": "jpop",
   "src": null,
-  "n": 4,
+  "n": 5,
   "perfs": [
    {
     "v": "z1bLSEcoo7E",
@@ -7527,6 +8175,15 @@
     "d": "2025-01-27",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "aW0p20hg7ms",
+    "t": 1407,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
     "r": 1,
     "i": null
    },
@@ -7732,51 +8389,6 @@
     "v": "r23hvAEALr4",
     "t": 247,
     "d": "2023-10-11",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "secret base ~ 君がくれたもの ~",
-  "artist": "ZONE",
-  "cat": "jpop",
-  "src": null,
-  "n": 4,
-  "perfs": [
-   {
-    "v": "FuXiow-eVF8",
-    "t": 2496,
-    "d": "2025-08-04",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "Qw3m2ysjEkA",
-    "t": 2150,
-    "d": "2025-04-17",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "Ec8OAZot2-w",
-    "t": 6637,
-    "d": "2024-04-03",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "HFY3mVm9fPg",
-    "t": 2851,
-    "d": "2023-11-01",
     "a": false,
     "L": null,
     "r": 1,
@@ -8190,25 +8802,43 @@
   ]
  },
  {
-  "title": "打上花火",
-  "artist": "DAOKO × 米津玄師",
-  "cat": "anime",
-  "src": "打ち上げ花火、下から見るか？横から見るか？",
+  "title": "ウィーアー!",
+  "artist": "きただにひろし",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "DiHB5voNt00",
+    "t": 3315,
+    "d": "2025-07-10",
+    "a": false,
+    "L": "L|真夏のReGLOSSカラオケ",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "プラネタリウム",
+  "artist": "大塚愛",
+  "cat": "jpop",
+  "src": null,
   "n": 2,
   "perfs": [
    {
-    "v": "eUkFxmnIIOA",
-    "t": 3715,
-    "d": "2025-07-21",
+    "v": "DiHB5voNt00",
+    "t": 2436,
+    "d": "2025-07-10",
     "a": false,
-    "L": null,
+    "L": "L|真夏のReGLOSSカラオケ",
     "r": 1,
     "i": null
    },
    {
-    "v": "r23hvAEALr4",
-    "t": 564,
-    "d": "2023-10-11",
+    "v": "IuoVrIn4OcM",
+    "t": 214,
+    "d": "2024-07-07",
     "a": false,
     "L": null,
     "r": 1,
@@ -8217,27 +8847,27 @@
   ]
  },
  {
-  "title": "bvdiz",
-  "artist": "ReGLOSS",
-  "cat": "holo",
-  "src": null,
+  "title": "名前のない怪物",
+  "artist": "EGOIST",
+  "cat": "anime",
+  "src": "PSYCHO-PASS",
   "n": 2,
   "perfs": [
    {
-    "v": "gT1ARDYPxPs",
-    "t": 17772,
-    "d": "2025-06-07",
+    "v": "28P_1Y0WbrM",
+    "t": 1261,
+    "d": "2025-06-11",
     "a": false,
-    "L": null,
+    "L": "L|鷹嶺ルイ生誕3Dライブ",
     "r": 1,
     "i": null
    },
    {
-    "v": "BILMZyLkaKA",
-    "t": 215,
-    "d": "2024-10-07",
+    "v": "45ZfAdZuaok",
+    "t": 0,
+    "d": "2023-09-09",
     "a": false,
-    "L": null,
+    "L": "V|cover",
     "r": 1,
     "i": null
    }
@@ -8248,7 +8878,7 @@
   "artist": "ReGLOSS",
   "cat": "holo",
   "src": null,
-  "n": 117,
+  "n": 120,
   "perfs": [
    {
     "v": "gT1ARDYPxPs",
@@ -8256,6 +8886,24 @@
     "d": "2025-06-07",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "qc2owX4GFwA",
+    "t": 475,
+    "d": "2025-03-30",
+    "a": false,
+    "L": "L|ReGLOSS Sakura Mirage 3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "k8Jjwu3YwPo",
+    "t": 3741,
+    "d": "2024-12-31",
+    "a": false,
+    "L": "L|hololive COUNTDOWN LIVE 2024▷2025",
     "r": 1,
     "i": null
    },
@@ -8283,6 +8931,15 @@
     "d": "2024-10-07",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 676,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
     "r": 1,
     "i": null
    },
@@ -9310,7 +9967,7 @@
   "artist": "ReGLOSS",
   "cat": "holo",
   "src": null,
-  "n": 3,
+  "n": 5,
   "perfs": [
    {
     "v": "gT1ARDYPxPs",
@@ -9322,11 +9979,29 @@
     "i": null
    },
    {
+    "v": "qc2owX4GFwA",
+    "t": 1074,
+    "d": "2025-03-30",
+    "a": false,
+    "L": "L|ReGLOSS Sakura Mirage 3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
     "v": "sjJUx-I2Rro",
     "t": 2320,
     "d": "2025-01-16",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 2453,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
     "r": 1,
     "i": null
    },
@@ -9388,51 +10063,6 @@
     "v": "gT1ARDYPxPs",
     "t": 14280,
     "d": "2025-06-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "少女レイ",
-  "artist": "みきとP",
-  "cat": "vocaloid",
-  "src": null,
-  "n": 4,
-  "perfs": [
-   {
-    "v": "gT1ARDYPxPs",
-    "t": 13838,
-    "d": "2025-06-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "igOa9fUQxcg",
-    "t": 4875,
-    "d": "2024-06-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "h-B3Qz1dL3g",
-    "t": 5535,
-    "d": "2023-12-14",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "yPhXfmeiqas",
-    "t": 1749,
-    "d": "2023-11-22",
     "a": false,
     "L": null,
     "r": 1,
@@ -9945,6 +10575,24 @@
   ]
  },
  {
+  "title": "ツッパりHigh School Rock'n Roll(登校編)",
+  "artist": "横浜銀蝿",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "bjPYXtxhm0I",
+    "t": 1346,
+    "d": "2025-06-07",
+    "a": false,
+    "L": "L|轟はじめ生誕3Dライブ",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "ゴーストルール",
   "artist": "DECO*27",
   "cat": "vocaloid",
@@ -10381,7 +11029,7 @@
   "artist": "hololive IDOL PROJECT",
   "cat": "holo",
   "src": null,
-  "n": 1,
+  "n": 2,
   "perfs": [
    {
     "v": "iLbRY5jwGoE",
@@ -10389,6 +11037,15 @@
     "d": "2025-04-13",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4C3kreEOk1Q",
+    "t": 2207,
+    "d": "2025-03-08",
+    "a": false,
+    "L": "L|hololive 6th fes. DAY1 STAGE2",
     "r": 1,
     "i": null
    }
@@ -10399,7 +11056,7 @@
   "artist": "ReGLOSS",
   "cat": "holo",
   "src": null,
-  "n": 1,
+  "n": 2,
   "perfs": [
    {
     "v": "m0gb_Xt8AsE",
@@ -10407,6 +11064,15 @@
     "d": "2025-04-07",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "qc2owX4GFwA",
+    "t": 2182,
+    "d": "2025-03-30",
+    "a": false,
+    "L": "L|ReGLOSS Sakura Mirage 3Dライブ",
     "r": 1,
     "i": null
    }
@@ -10461,6 +11127,105 @@
     "d": "2024-01-31",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "シンメトリー",
+  "artist": "ReGLOSS",
+  "cat": "holo",
+  "src": null,
+  "n": 8,
+  "perfs": [
+   {
+    "v": "qc2owX4GFwA",
+    "t": 1262,
+    "d": "2025-03-30",
+    "a": false,
+    "L": "L|ReGLOSS Sakura Mirage 3Dライブ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "BILMZyLkaKA",
+    "t": 1536,
+    "d": "2024-10-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "wIYvks57cQA",
+    "t": 885,
+    "d": "2024-09-28",
+    "a": false,
+    "L": "L|ReGLOSS 3Dお披露目",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "igOa9fUQxcg",
+    "t": 7914,
+    "d": "2024-06-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "nNjpdHfB70Y",
+    "t": 5327,
+    "d": "2024-05-29",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "0O36pmT9TBw",
+    "t": 1822,
+    "d": "2024-05-05",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Ec8OAZot2-w",
+    "t": 4073,
+    "d": "2024-04-03",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "ez2eEOWtex4",
+    "t": 3617,
+    "d": "2024-04-01",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "女々しくて",
+  "artist": "ゴールデンボンバー",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "PyQ4-6-TeRI",
+    "t": 2972,
+    "d": "2025-02-27",
+    "a": false,
+    "L": "L|火威青生誕3Dライブ",
     "r": 1,
     "i": null
    }
@@ -10587,6 +11352,42 @@
     "d": "2023-10-25",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Maze Town",
+  "artist": "ラブライブ！",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "4JNyad4TTuY",
+    "t": 1769,
+    "d": "2025-02-15",
+    "a": false,
+    "L": "L|ムーナ生誕3Dライブ",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "STAR TRAIN",
+  "artist": "Perfume",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "f5QgEZjH53Y",
+    "t": 3265,
+    "d": "2025-02-04",
+    "a": false,
+    "L": "L|儒烏風亭らでん生誕3Dライブ",
     "r": 1,
     "i": null
    }
@@ -10836,6 +11637,24 @@
   ]
  },
  {
+  "title": "メズマライザー",
+  "artist": "サツキ",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "k8Jjwu3YwPo",
+    "t": 742,
+    "d": "2024-12-31",
+    "a": false,
+    "L": "L|hololive COUNTDOWN LIVE 2024▷2025",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "Beyond the way",
   "artist": "Giga",
   "cat": "vocaloid",
@@ -10866,6 +11685,105 @@
     "d": "2024-12-25",
     "a": false,
     "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "愛包ダンスホール",
+  "artist": "HIMEHINA",
+  "cat": "etc",
+  "src": "@vtuber",
+  "n": 2,
+  "perfs": [
+   {
+    "v": "aW0p20hg7ms",
+    "t": 2515,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "WQxK0NEam2E",
+    "t": 2644,
+    "d": "2024-02-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "クリスマスソング",
+  "artist": "back number",
+  "cat": "jpop",
+  "src": null,
+  "n": 2,
+  "perfs": [
+   {
+    "v": "aW0p20hg7ms",
+    "t": 832,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "RO5OaSqjGOc",
+    "t": 818,
+    "d": "2023-12-25",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Bling-Bang-Bang-Born",
+  "artist": "Creepy Nuts",
+  "cat": "anime",
+  "src": "マッシュル-MASHLE-",
+  "n": 2,
+  "perfs": [
+   {
+    "v": "aW0p20hg7ms",
+    "t": 452,
+    "d": "2024-12-09",
+    "a": false,
+    "L": "L|ReGLOSS 3Dカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "vFDysagoQw0",
+    "t": 0,
+    "d": "2024-06-12",
+    "a": false,
+    "L": "V|cover",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "初めての恋が終わる時",
+  "artist": "supercell",
+  "cat": "vocaloid",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "fTupWAFy6wo",
+    "t": 825,
+    "d": "2024-11-24",
+    "a": false,
+    "L": "L|白銀ノエル生誕3Dライブ",
     "r": 1,
     "i": null
    }
@@ -11089,69 +12007,6 @@
     "v": "BILMZyLkaKA",
     "t": 1851,
     "d": "2024-10-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "シンメトリー",
-  "artist": "ReGLOSS",
-  "cat": "holo",
-  "src": null,
-  "n": 6,
-  "perfs": [
-   {
-    "v": "BILMZyLkaKA",
-    "t": 1536,
-    "d": "2024-10-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "igOa9fUQxcg",
-    "t": 7914,
-    "d": "2024-06-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "nNjpdHfB70Y",
-    "t": 5327,
-    "d": "2024-05-29",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "0O36pmT9TBw",
-    "t": 1822,
-    "d": "2024-05-05",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "Ec8OAZot2-w",
-    "t": 4073,
-    "d": "2024-04-03",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "ez2eEOWtex4",
-    "t": 3617,
-    "d": "2024-04-01",
     "a": false,
     "L": null,
     "r": 1,
@@ -11457,24 +12312,6 @@
   ]
  },
  {
-  "title": "プラネタリウム",
-  "artist": "大塚愛",
-  "cat": "jpop",
-  "src": null,
-  "n": 1,
-  "perfs": [
-   {
-    "v": "IuoVrIn4OcM",
-    "t": 214,
-    "d": "2024-07-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "不可幸力",
   "artist": "Vaundy",
   "cat": "jpop",
@@ -11523,24 +12360,6 @@
     "d": "2024-06-12",
     "a": false,
     "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "Bling-Bang-Bang-Born",
-  "artist": "Creepy Nuts",
-  "cat": "anime",
-  "src": "マッシュル-MASHLE-",
-  "n": 1,
-  "perfs": [
-   {
-    "v": "vFDysagoQw0",
-    "t": 0,
-    "d": "2024-06-12",
-    "a": false,
-    "L": "V|cover",
     "r": 1,
     "i": null
    }
@@ -12717,24 +13536,6 @@
   ]
  },
  {
-  "title": "愛包ダンスホール",
-  "artist": "HIMEHINA",
-  "cat": "etc",
-  "src": "@vtuber",
-  "n": 1,
-  "perfs": [
-   {
-    "v": "WQxK0NEam2E",
-    "t": 2644,
-    "d": "2024-02-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "夜に駆ける",
   "artist": "YOASOBI",
   "cat": "jpop",
@@ -13069,24 +13870,6 @@
     "v": "BoT8SjHO5_c",
     "t": 2232,
     "d": "2023-12-28",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "クリスマスソング",
-  "artist": "back number",
-  "cat": "jpop",
-  "src": null,
-  "n": 1,
-  "perfs": [
-   {
-    "v": "RO5OaSqjGOc",
-    "t": 818,
-    "d": "2023-12-25",
     "a": false,
     "L": null,
     "r": 1,
@@ -13905,24 +14688,6 @@
   ]
  },
  {
-  "title": "ギターと孤独と蒼い惑星",
-  "artist": "結束バンド",
-  "cat": "anime",
-  "src": "ぼっち・ざ・ろっく！",
-  "n": 1,
-  "perfs": [
-   {
-    "v": "gZIS-GATJFw",
-    "t": 3139,
-    "d": "2023-09-28",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "真赤",
   "artist": "My Hair is Bad",
   "cat": "jpop",
@@ -13953,24 +14718,6 @@
     "d": "2023-09-12",
     "a": false,
     "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "名前のない怪物",
-  "artist": "EGOIST",
-  "cat": "anime",
-  "src": "PSYCHO-PASS",
-  "n": 1,
-  "perfs": [
-   {
-    "v": "45ZfAdZuaok",
-    "t": 0,
-    "d": "2023-09-09",
-    "a": false,
-    "L": "V|cover",
     "r": 1,
     "i": null
    }

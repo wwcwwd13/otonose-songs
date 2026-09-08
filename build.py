@@ -32,9 +32,20 @@ DATES = {
 "4flP14V9uRI":"2026-06-29","8JNJ8GYgTQk":"2026-08-07",
 # --- 3D LIVE ---
 "mt8AyISL9Ig":"2025-04-20","zZ2Ce3eDamU":"2026-04-20",
+# --- 게스트 3D 라이브·공식 카라오케 ---
+"wIYvks57cQA":"2024-09-28","fTupWAFy6wo":"2024-11-24","aW0p20hg7ms":"2024-12-09",
+"k8Jjwu3YwPo":"2024-12-31","f5QgEZjH53Y":"2025-02-04","4JNyad4TTuY":"2025-02-15",
+"PyQ4-6-TeRI":"2025-02-27","4C3kreEOk1Q":"2025-03-08","HB8sU0qsePE":"2025-05-12",
+"bjPYXtxhm0I":"2025-06-07","28P_1Y0WbrM":"2025-06-11","DiHB5voNt00":"2025-07-10",
+"lXten0BT3ZE":"2025-09-13","qc2owX4GFwA":"2025-03-30","jNCGOv8Zz1A":"2025-12-12","oKiKqycF-lk":"2025-12-31","pmWH-wAJYRE":"2026-01-03",
+"YgZNZM81OcA":"2026-03-02","mCgAcTJyvts":"2026-03-08","segXDFnmX7o":"2026-04-05","h0jykfxgmj0":"2026-06-16",
+"Kib9k58WLn0":"2026-07-01","QB2tT48CvOI":"2026-07-19",
 # --- 릴레이 방송 (사용자 제공 세트리스트) ---
 "3Utxr_XKd4c":"2024-12-25","vXA6u6L_quw":"2025-07-20","GoNEvx4LU7U":"2025-12-24",
 # --- 동영상 탭 (MV / cover) ---
+"wWs-sl0zXqw":"2026-08-28","GTpQYXMbPgY":"2026-08-06","Z3rqP6VmqU4":"2026-07-28",
+"y0yJ6HjBrOA":"2026-04-15","hvqSFRncqMA":"2026-04-05","T6v4mZVrsB0":"2025-09-25",
+"TO4W5iUe4Jw":"2025-09-14","MQr9XHYCm5A":"2025-08-10",
 "_xwOiIMM2a4":"2026-04-20","r_RZPiXYIlk":"2026-04-16","JiuTyDdtedo":"2026-04-08",
 "eMG7_WLMLtI":"2026-02-18","CJu--agTZ6Q":"2025-08-31","pTwFsTxsf4w":"2025-08-09",
 "PHGOpLwYGtE":"2025-08-04","lpa-OXAukNg":"2025-05-23","_ms0s1x5fa8":"2025-05-06",
@@ -95,7 +106,7 @@ TITLE_ALIAS = {
  "You＆合図":"You & 合図", "-ERROR":"-ERROR", "ERROR":"-ERROR",
 }
 
-HOLO = {"hololive IDOL PROJECT","ReGLOSS","FLOW GLOW","星街すいせい","宝鐘マリン",
+HOLO = {"hololive IDOL PROJECT","hololive Meet Ambassadors","hololiveDreams","ReGLOSS","ReGLOSS×BEMANI","FLOW GLOW","星街すいせい","宝鐘マリン",
  "常闇トワ","七詩ムメイ","IRyS","AZKi","角巻わため","天音かなた","瀬名航 feat. AZKi",
  "音乃瀬奏","轟はじめ","一条莉々華","儒烏風亭らでん"}
 
