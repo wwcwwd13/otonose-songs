@@ -61,6 +61,16 @@ DATES = {
 "fO2ejfMaS4Q":"2026-03-04","cM9H5jKzU1g":"2026-05-02","a8GYotCWqxs":"2026-05-21",
 "eOeMvjGGYoc":"2026-08-28",
 "PeitgWu6Yj8":"2026-09-09",
+# --- 공식 노래 재생목록 누락분 ---
+"ql4R-pxbZv0":"2025-11-12","MUbaO277HNo":"2025-08-09","jAOqZqQXbqM":"2025-03-30",
+"m6T71r7hRMI":"2025-01-31","r2jVXfsGzIs":"2024-11-06","u4uDiV3u-do":"2024-09-10",
+"fCOpX9A--uQ":"2024-08-31","wGgtLWW48Yw":"2024-08-27","-pfI25EsoRs":"2024-08-10",
+"uk8xjfPuh_4":"2024-07-18","Tx3sLfqC7t4":"2024-07-10","qiLGUhv7ST0":"2024-06-10",
+"ai1Gnz0kOF8":"2024-05-10","HP8k2PxE8M0":"2024-04-25","Mb2Pdf7P-a4":"2024-04-10",
+"5ADaIvhhcCU":"2024-03-24","7EI8UkPMu_4":"2024-03-10","18fV621mIHU":"2024-02-29",
+"RSAeQ3kaRG8":"2024-02-14","E7raUTcOLIU":"2024-01-10","dFH21RxMVGs":"2023-12-07",
+"HnWh9dv5tFE":"2023-11-30","NSe5TYDGaJo":"2023-11-10","CSVy1AlYnrQ":"2023-10-10",
+"Ix_uXN_ybxc":"2023-09-04",
 }
 
 # ---------- artist canonicalisation ----------
@@ -109,7 +119,7 @@ TITLE_ALIAS = {
 
 HOLO = {"hololive IDOL PROJECT","hololive Meet Ambassadors","hololiveDreams","ReGLOSS","ReGLOSS×BEMANI","FLOW GLOW","星街すいせい","宝鐘マリン",
  "常闇トワ","七詩ムメイ","IRyS","AZKi","角巻わため","天音かなた","瀬名航 feat. AZKi",
- "音乃瀬奏","轟はじめ","一条莉々華","儒烏風亭らでん"}
+ "音乃瀬奏","轟はじめ","一条莉々華","儒烏風亭らでん","hololive English -Advent-"}
 
 VOCALO = {"ピノキオピー","みきとP","164","じん","ジミーサムP","ポリスピカデリー","40mP",
  "かいりきベア","n-buna","DECO*27","niki","ryo(supercell)","supercell","ナノウ",
@@ -193,7 +203,8 @@ ANIME = {
  # --- 릴레이 / 동영상 탭에서 추가 ---
  "対象a":"ひぐらしのなく頃に解","IRIS OUT":"チェンソーマン レゼ篇",
  "Bling-Bang-Bang-Born":"マッシュル-MASHLE-","My Dearest":"ギルティクラウン",
- "名前のない怪物":"PSYCHO-PASS",
+ "名前のない怪物":"PSYCHO-PASS","残機":"チェンソーマン",
+ "絶絶絶絶対聖域":"デッドデッドデーモンズデデデデデストラクション",
  # --- 누락 방송에서 추가 ---
  "オトノケ":"ダンダダン","ぼなぺてぃーと♡S":"ブレンド・S",
 }
