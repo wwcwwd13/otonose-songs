@@ -61,6 +61,8 @@ DATES = {
 "fO2ejfMaS4Q":"2026-03-04","cM9H5jKzU1g":"2026-05-02","a8GYotCWqxs":"2026-05-21",
 "eOeMvjGGYoc":"2026-08-28",
 "PeitgWu6Yj8":"2026-09-09",
+# --- 공식 게스트 참여 MV ---
+"JyP1hD-IzZg":"2026-09-16",
 # --- 공식 노래 재생목록 누락분 ---
 "ql4R-pxbZv0":"2025-11-12","MUbaO277HNo":"2025-08-09","jAOqZqQXbqM":"2025-03-30",
 "m6T71r7hRMI":"2025-01-31","r2jVXfsGzIs":"2024-11-06","u4uDiV3u-do":"2024-09-10",
@@ -117,7 +119,7 @@ TITLE_ALIAS = {
  "You＆合図":"You & 合図", "-ERROR":"-ERROR", "ERROR":"-ERROR",
 }
 
-HOLO = {"hololive IDOL PROJECT","hololive Meet Ambassadors","hololiveDreams","ReGLOSS","ReGLOSS×BEMANI","FLOW GLOW","星街すいせい","宝鐘マリン",
+HOLO = {"hololive IDOL PROJECT","hololive Meet Ambassadors","hololiveDreams","ReGLOSS","ReGLOSS×BEMANI","FLOW GLOW","星街すいせい","宝鐘マリン","大空スバル",
  "常闇トワ","七詩ムメイ","IRyS","AZKi","角巻わため","天音かなた","瀬名航 feat. AZKi",
  "音乃瀬奏","轟はじめ","一条莉々華","儒烏風亭らでん","hololive English -Advent-"}
 
