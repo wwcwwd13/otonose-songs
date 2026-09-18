@@ -60,7 +60,7 @@ DATES = {
 "_8u-fp3L7K0":"2026-01-02","KURAzY1Z7eM":"2026-01-22","zi60qBQOoxQ":"2026-01-31",
 "fO2ejfMaS4Q":"2026-03-04","cM9H5jKzU1g":"2026-05-02","a8GYotCWqxs":"2026-05-21",
 "eOeMvjGGYoc":"2026-08-28",
-"PeitgWu6Yj8":"2026-09-09",
+"PeitgWu6Yj8":"2026-09-09","qUaYRV2kupA":"2026-09-18",
 # --- 공식 게스트 참여 MV ---
 "JyP1hD-IzZg":"2026-09-16",
 # --- 공식 노래 재생목록 누락분 ---
@@ -120,7 +120,7 @@ TITLE_ALIAS = {
 }
 
 HOLO = {"hololive IDOL PROJECT","hololive Meet Ambassadors","hololiveDreams","ReGLOSS","ReGLOSS×BEMANI","FLOW GLOW","星街すいせい","宝鐘マリン","大空スバル",
- "常闇トワ","七詩ムメイ","IRyS","AZKi","角巻わため","天音かなた","瀬名航 feat. AZKi",
+ "常闇トワ","七詩ムメイ","IRyS","AZKi","角巻わため","天音かなた","こぼ・かなえる","瀬名航 feat. AZKi",
  "音乃瀬奏","轟はじめ","一条莉々華","儒烏風亭らでん","hololive English -Advent-"}
 
 VOCALO = {"ピノキオピー","みきとP","164","じん","ジミーサムP","ポリスピカデリー","40mP",
@@ -136,7 +136,7 @@ VOCALO = {"ピノキオピー","みきとP","164","じん","ジミーサムP","�
  "石風呂","Kai","Guiano","はるまきごはん×キタニタツヤ","Giga & TeddyLoid",
  "sasakure.UK","biz×ZERA feat.LOLUET","雨衣","春野","HoneyWorks",
  "wowaka","kemu","ナナホシ管弦楽団","Orangestar","Giga",
- "samfree","有機酸","トーマ","黒うさP","Aqu3ra","てにをは"}
+ "samfree","有機酸","トーマ","黒うさP","Aqu3ra","てにをは","ナユタン星人"}
 
 ETC = {"Ayumu Imazu_REMOVED","結束バンド","フランシュシュ","B小町","μ's","Petit Rabbit's","桜高軽音部",
  "後ろから這いより隊G","涼宮ハルヒ","泉こなた, 柊かがみ, 柊つかさ, 高良みゆき","阿良々木月火",
