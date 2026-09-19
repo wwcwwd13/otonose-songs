@@ -43,7 +43,7 @@ DATES = {
 # --- 릴레이 방송 (사용자 제공 세트리스트) ---
 "3Utxr_XKd4c":"2024-12-25","vXA6u6L_quw":"2025-07-20","GoNEvx4LU7U":"2025-12-24",
 # --- 동영상 탭 (MV / cover) ---
-"wWs-sl0zXqw":"2026-08-28","GTpQYXMbPgY":"2026-08-06","Z3rqP6VmqU4":"2026-07-28",
+"o4SH9mJRIwU":"2026-09-19","wWs-sl0zXqw":"2026-08-28","GTpQYXMbPgY":"2026-08-06","Z3rqP6VmqU4":"2026-07-28",
 "y0yJ6HjBrOA":"2026-04-15","hvqSFRncqMA":"2026-04-05","T6v4mZVrsB0":"2025-09-25",
 "TO4W5iUe4Jw":"2025-09-14","MQr9XHYCm5A":"2025-08-10",
 "_xwOiIMM2a4":"2026-04-20","r_RZPiXYIlk":"2026-04-16","JiuTyDdtedo":"2026-04-08",
