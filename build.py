@@ -61,6 +61,7 @@ DATES = {
 "fO2ejfMaS4Q":"2026-03-04","cM9H5jKzU1g":"2026-05-02","a8GYotCWqxs":"2026-05-21",
 "eOeMvjGGYoc":"2026-08-28",
 "PeitgWu6Yj8":"2026-09-09","qUaYRV2kupA":"2026-09-18",
+"UCLliJRLf7U":"2026-09-23",
 # --- 공식 게스트 참여 MV ---
 "JyP1hD-IzZg":"2026-09-16",
 # --- 공식 노래 재생목록 누락분 ---

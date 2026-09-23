@@ -1,5 +1,419 @@
 [
  {
+  "title": "天体観測",
+  "artist": "BUMP OF CHICKEN",
+  "cat": "jpop",
+  "src": null,
+  "n": 9,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 3241,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "bTNx6xRYLrQ",
+    "t": 2624,
+    "d": "2025-12-29",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "nHu9HRo-wXM",
+    "t": 8259,
+    "d": "2025-11-06",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "Wreee0go3s4",
+    "t": 5646,
+    "d": "2025-08-17",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "DiHB5voNt00",
+    "t": 2799,
+    "d": "2025-07-10",
+    "a": false,
+    "L": "L|真夏のReGLOSSカラオケ",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "fzojx27z2Go",
+    "t": 1734,
+    "d": "2024-08-27",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "IuoVrIn4OcM",
+    "t": 1536,
+    "d": "2024-07-07",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "vAY6SsOvceU",
+    "t": 1615,
+    "d": "2023-11-15",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "E5_kcFeb4w8",
+    "t": 249,
+    "d": "2023-11-08",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "たばこ",
+  "artist": "コレサワ",
+  "cat": "jpop",
+  "src": null,
+  "n": 4,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 2843,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4flP14V9uRI",
+    "t": 4129,
+    "d": "2026-06-29",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "qF7kD6MbBdk",
+    "t": 1252,
+    "d": "2026-02-11",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "XT6ITvtd3TA",
+    "t": 2570,
+    "d": "2023-10-18",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "RAIN",
+  "artist": "SEKAI NO OWARI",
+  "cat": "anime",
+  "src": "メアリと魔女の花",
+  "n": 3,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 2514,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "CCjz0q-Rbwk",
+    "t": 251,
+    "d": "2025-10-06",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "XT6ITvtd3TA",
+    "t": 1717,
+    "d": "2023-10-18",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "Pop Virus",
+  "artist": "星野源",
+  "cat": "jpop",
+  "src": null,
+  "n": 2,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 2263,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4vNBqHltAXs",
+    "t": 1390,
+    "d": "2023-10-25",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "言って。",
+  "artist": "ヨルシカ",
+  "cat": "jpop",
+  "src": null,
+  "n": 1,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 1967,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "風を食む",
+  "artist": "ヨルシカ",
+  "cat": "jpop",
+  "src": null,
+  "n": 5,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 1683,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "VUtZTWnGiKY",
+    "t": 6211,
+    "d": "2025-11-22",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "sjJUx-I2Rro",
+    "t": 1900,
+    "d": "2025-01-16",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "14p3fI3IiRU",
+    "t": 1227,
+    "d": "2024-02-21",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "yPhXfmeiqas",
+    "t": 2434,
+    "d": "2023-11-22",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "新宝島",
+  "artist": "サカナクション",
+  "cat": "jpop",
+  "src": null,
+  "n": 4,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 1359,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "cM9H5jKzU1g",
+    "t": 6208,
+    "d": "2026-05-02",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "YrwsxnW-aow",
+    "t": 1407,
+    "d": "2024-03-20",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4vNBqHltAXs",
+    "t": 3603,
+    "d": "2023-10-25",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "不可幸力",
+  "artist": "Vaundy",
+  "cat": "jpop",
+  "src": null,
+  "n": 3,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 867,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "CTlYjh1Gy6k",
+    "t": 1069,
+    "d": "2024-06-12",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "qiLGUhv7ST0",
+    "t": 0,
+    "d": "2024-06-10",
+    "a": false,
+    "L": "V|cover",
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "東京フラッシュ",
+  "artist": "Vaundy",
+  "cat": "jpop",
+  "src": null,
+  "n": 2,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 546,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "4vNBqHltAXs",
+    "t": 2841,
+    "d": "2023-10-25",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
+  "title": "アイネクライネ",
+  "artist": "米津玄師",
+  "cat": "jpop",
+  "src": null,
+  "n": 3,
+  "perfs": [
+   {
+    "v": "UCLliJRLf7U",
+    "t": 185,
+    "d": "2026-09-23",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "JiuTyDdtedo",
+    "t": 0,
+    "d": "2026-04-08",
+    "a": false,
+    "L": "V|Acoustic cover",
+    "r": 1,
+    "i": null
+   },
+   {
+    "v": "NIYGzltMSdw",
+    "t": 3450,
+    "d": "2023-09-20",
+    "a": false,
+    "L": null,
+    "r": 1,
+    "i": null
+   }
+  ]
+ },
+ {
   "title": "Surges",
   "artist": "Orangestar",
   "cat": "vocaloid",
@@ -2601,42 +3015,6 @@
   ]
  },
  {
-  "title": "たばこ",
-  "artist": "コレサワ",
-  "cat": "jpop",
-  "src": null,
-  "n": 3,
-  "perfs": [
-   {
-    "v": "4flP14V9uRI",
-    "t": 4129,
-    "d": "2026-06-29",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "qF7kD6MbBdk",
-    "t": 1252,
-    "d": "2026-02-11",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "XT6ITvtd3TA",
-    "t": 2570,
-    "d": "2023-10-18",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "別の人の彼女になったよ",
   "artist": "wacci",
   "cat": "jpop",
@@ -4284,42 +4662,6 @@
   ]
  },
  {
-  "title": "新宝島",
-  "artist": "サカナクション",
-  "cat": "jpop",
-  "src": null,
-  "n": 3,
-  "perfs": [
-   {
-    "v": "cM9H5jKzU1g",
-    "t": 6208,
-    "d": "2026-05-02",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "YrwsxnW-aow",
-    "t": 1407,
-    "d": "2024-03-20",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "4vNBqHltAXs",
-    "t": 3603,
-    "d": "2023-10-25",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "ひまわりの約束",
   "artist": "秦基博",
   "cat": "anime",
@@ -4809,33 +5151,6 @@
     "d": "2026-04-15",
     "a": false,
     "L": "V|Official MV",
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "アイネクライネ",
-  "artist": "米津玄師",
-  "cat": "jpop",
-  "src": null,
-  "n": 2,
-  "perfs": [
-   {
-    "v": "JiuTyDdtedo",
-    "t": 0,
-    "d": "2026-04-08",
-    "a": false,
-    "L": "V|Acoustic cover",
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "NIYGzltMSdw",
-    "t": 3450,
-    "d": "2023-09-20",
-    "a": false,
-    "L": null,
     "r": 1,
     "i": null
    }
@@ -6570,87 +6885,6 @@
   ]
  },
  {
-  "title": "天体観測",
-  "artist": "BUMP OF CHICKEN",
-  "cat": "jpop",
-  "src": null,
-  "n": 8,
-  "perfs": [
-   {
-    "v": "bTNx6xRYLrQ",
-    "t": 2624,
-    "d": "2025-12-29",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "nHu9HRo-wXM",
-    "t": 8259,
-    "d": "2025-11-06",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "Wreee0go3s4",
-    "t": 5646,
-    "d": "2025-08-17",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "DiHB5voNt00",
-    "t": 2799,
-    "d": "2025-07-10",
-    "a": false,
-    "L": "L|真夏のReGLOSSカラオケ",
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "fzojx27z2Go",
-    "t": 1734,
-    "d": "2024-08-27",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "IuoVrIn4OcM",
-    "t": 1536,
-    "d": "2024-07-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "vAY6SsOvceU",
-    "t": 1615,
-    "d": "2023-11-15",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "E5_kcFeb4w8",
-    "t": 249,
-    "d": "2023-11-08",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "カルチャ",
   "artist": "ツミキ",
   "cat": "vocaloid",
@@ -7084,51 +7318,6 @@
     "v": "BILMZyLkaKA",
     "t": 6375,
     "d": "2024-10-07",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "風を食む",
-  "artist": "ヨルシカ",
-  "cat": "jpop",
-  "src": null,
-  "n": 4,
-  "perfs": [
-   {
-    "v": "VUtZTWnGiKY",
-    "t": 6211,
-    "d": "2025-11-22",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "sjJUx-I2Rro",
-    "t": 1900,
-    "d": "2025-01-16",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "14p3fI3IiRU",
-    "t": 1227,
-    "d": "2024-02-21",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "yPhXfmeiqas",
-    "t": 2434,
-    "d": "2023-11-22",
     "a": false,
     "L": null,
     "r": 1,
@@ -8057,33 +8246,6 @@
     "t": 3243,
     "d": "2025-08-04",
     "a": true,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "RAIN",
-  "artist": "SEKAI NO OWARI",
-  "cat": "anime",
-  "src": "メアリと魔女の花",
-  "n": 2,
-  "perfs": [
-   {
-    "v": "CCjz0q-Rbwk",
-    "t": 251,
-    "d": "2025-10-06",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "XT6ITvtd3TA",
-    "t": 1717,
-    "d": "2023-10-18",
-    "a": false,
     "L": null,
     "r": 1,
     "i": null
@@ -12744,33 +12906,6 @@
   ]
  },
  {
-  "title": "不可幸力",
-  "artist": "Vaundy",
-  "cat": "jpop",
-  "src": null,
-  "n": 2,
-  "perfs": [
-   {
-    "v": "CTlYjh1Gy6k",
-    "t": 1069,
-    "d": "2024-06-12",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   },
-   {
-    "v": "qiLGUhv7ST0",
-    "t": 0,
-    "d": "2024-06-10",
-    "a": false,
-    "L": "V|cover",
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "食虫植物",
   "artist": "理芽",
   "cat": "vocaloid",
@@ -15003,24 +15138,6 @@
   ]
  },
  {
-  "title": "東京フラッシュ",
-  "artist": "Vaundy",
-  "cat": "jpop",
-  "src": null,
-  "n": 1,
-  "perfs": [
-   {
-    "v": "4vNBqHltAXs",
-    "t": 2841,
-    "d": "2023-10-25",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
   "title": "RIDE ON TIME",
   "artist": "山下達郎",
   "cat": "jpop",
@@ -15048,24 +15165,6 @@
    {
     "v": "4vNBqHltAXs",
     "t": 2087,
-    "d": "2023-10-25",
-    "a": false,
-    "L": null,
-    "r": 1,
-    "i": null
-   }
-  ]
- },
- {
-  "title": "Pop Virus",
-  "artist": "星野源",
-  "cat": "jpop",
-  "src": null,
-  "n": 1,
-  "perfs": [
-   {
-    "v": "4vNBqHltAXs",
-    "t": 1390,
     "d": "2023-10-25",
     "a": false,
     "L": null,
