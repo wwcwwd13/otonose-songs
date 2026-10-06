@@ -59,3 +59,9 @@ Select-String -Path songs.json,index.html -Pattern 'VIDEO_ID'
 ```
 
 새 방송에 대해 두 파일 모두에서 영상 ID가 기대한 곡 수만큼 검출되는지 확인한다.
+
+## 방송 추가 (2026-10-06)
+
+- `irjNowlxPMc`: raku를 사용한 노래 방송, 8곡.
+- 시작 시각 출처: 아카이브 공개 댓글 `Ugya55a0pAep8kvhQBd4AaABAg`의 세트리스트.
+- 모두 카나데 단독 가창으로 등록하며 원곡의 멤버를 함께 부른 멤버로 표시하지 않는다.
